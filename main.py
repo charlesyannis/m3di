@@ -1,6 +1,6 @@
 ##########################
-# M3DI 
-# Autor : Yannis CHARLES
+# M3Di 
+# Autor : YM3Di Guru
 ##########################
 def main():
     print("Hello World!")
@@ -8,4 +8,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-print("M3Di-Guru")
+print("M3Di Guru>")
